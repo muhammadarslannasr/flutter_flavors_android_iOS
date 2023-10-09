@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Implemented Flavours with 2 flavors and followed tutorial from YouTube to implement
 
-A few resources to get you started if this is your first Flutter project:
+Below is the link of a Tutorial which really help me to implement flavor for both android and iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+commands flutter run --flavor coffee
+commands flutter run --flavor cookie
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.youtube.com/watch?v=4Y7WaeU3P60
+
+
